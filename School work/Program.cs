@@ -18,7 +18,7 @@ namespace School_work
             }
             else
             {
-                Console.WriteLine("Konstand för " + timmar + " timmar är " + resultat);
+                Console.WriteLine("Konstnad för " + timmar + " timmar är " + resultat);
             }
         }
     }
